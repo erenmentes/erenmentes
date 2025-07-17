@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Eren <span style="font-size:0.8em;">(range79)</span> 👋
+  Hi, I'm Eren 👋
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Fullstack Developer | Rust Enthusiast.
