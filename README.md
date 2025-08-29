@@ -46,6 +46,13 @@
 
 ---
 
+## 🗓️ Github Stats
+
+<div align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=erenmentes&theme=chartreuse-dark&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erenmentes&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="https://streak-stats.demolab.com/?user=erenmentes&theme=chartreuse-dark&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
+
 ## 🌍 Connect
 
 <p align="center">
