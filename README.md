@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ5NHRpdTB3aTNvcjJpY3NmMHp3ZDVpZzB1YXdmdjFqYXpqdGZvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6prNKZT3vv7W/giphy.gif" alt="kisuke urahara" width="100" height="80" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ5NHRpdTB3aTNvcjJpY3NmMHp3ZDVpZzB1YXdmdjFqYXpqdGZvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6prNKZT3vv7W/giphy.gif" alt="kisuke urahara" width="100" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px; height: 50px;" />
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
