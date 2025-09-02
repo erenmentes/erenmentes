@@ -6,7 +6,7 @@
   Hi, I'm Eren 👋
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Fullstack Developer | Rust Enthusiast.
+  Fullstack Web Developer | Rust Enthusiast.
 </p>
 
 ---
