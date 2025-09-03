@@ -39,9 +39,9 @@
 
 ## 👨‍💻 About Me
 
-- 💡 1+ years of backend experience, mainly with **Javascript** & **NodeJS**.
+- 💡 1+ years of fullstack experience, mainly with **ReactJS** & **ExpressJS** & **NestJS**.
 - 🛠️ Focused on **clean code**, **scalable systems**, and **automation**.
-- 🌱 Always learning: currently deepening Linux, and MERN Stack.
+- 🌱 Always learning: currently deepening Linux, and NestJS Stack.
 - 🤝 Eager to collaborate and share knowledge.
 - 📚 Fan of refactoring, design patterns, and lifelong growth.
 
