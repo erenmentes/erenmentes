@@ -41,9 +41,9 @@
 
 - 💡 1+ years of fullstack experience, mainly with **ReactJS** & **ExpressJS** & **NestJS**.
 - 🛠️ Focused on **clean code**, **scalable systems**, and **automation**.
-- 🌱 Always learning: currently deepening Linux, and NestJS Stack.
+- 🌱 Always learning: currently deepening Linux, and NestJS.
 - 🤝 Eager to collaborate and share knowledge.
-- 📚 Fan of refactoring, design patterns, and lifelong growth.
+- 📚 OOP and Open Source addict.
 
 ---
 
