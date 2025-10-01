@@ -53,10 +53,7 @@
 ## 🌍 Connect
 
 <p align="center">
-  <a href="mailto:erenmentes13@gmail.com" title="Email">
+  <a href="mailto:erenmentesdev@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/asdemree" title="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </p>
