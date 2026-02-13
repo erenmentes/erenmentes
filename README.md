@@ -66,12 +66,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenmentes&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="420"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmentes&theme=dracula&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="380"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=erenmentes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak"/>
 </div>
 
