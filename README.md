@@ -1,46 +1,78 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Eren!&fontSize=70&animation=fadeIn" />
-  
-  <h3>🚀 Fullstack Developer | Go & Rust Enthusiast</h3>
-  
-  <p>
-    <a href="mailto:erenmentesdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_USER_NAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  </p>
-</div>
+<h1 align="center">Hey there 👋, I'm Eren</h1>
 
----
+<p align="center">
+  <strong>Fullstack Web Developer</strong> • Go & Rust enthusiast • Clean code addict
+</p>
 
-### ⚡ Quick Bio
-- 🔭 **Current Focus:** Deep diving into Microservices architecture with **Go**.
-- 🦀 **Interests:** System programming with **Rust/Go** and building high-performance backend systems.
-- 🎨 **Philosophy:** "Software is not just about writing code; it's about crafting sustainable art."
-- 🐧 **Environment:** Linux enthusiast with a terminal-centric workflow.
+<p align="center">
+  <a href="mailto:erenmentesdev@gmail.com">
+    <img src="https://img.shields.io/badge/erenmentesdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
-| **Database** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white) |
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 Stats & Activity
+### 👨‍💻 Quick Bio
+
+- 💼 **1+ year** of fullstack experience (mainly React + NestJS / Express)
+- 🐧 Currently diving deep into **Golang**
+- 🧠 Passionate about **clean code**, **scalability**, **automation**, and **OOP**
+- 🔥 Open-source lover — enjoy contributing and learning from the community
+- 🤝 Always open to collaboration and knowledge sharing
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erenmentes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmentes&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenmentes&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="420"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmentes&theme=dracula&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="380"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenmentes&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=erenmentes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak"/>
 </div>
 
 ---
@@ -48,3 +80,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares." />
 </div>
+
+<p align="center">
+  💬 Feel free to reach out if you want to chat, collaborate, or just say hi!
+</p>
