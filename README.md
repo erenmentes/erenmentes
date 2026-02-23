@@ -61,22 +61,4 @@
 - 🔥 Open-source lover — enjoy contributing and learning from the community
 - 🤝 Always open to collaboration and knowledge sharing
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=erenmentes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares." />
-</div>
-
-<p align="center">
-  💬 Feel free to reach out if you want to chat, collaborate, or just say hi!
-</p>
-
 <img src="https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/>
