@@ -1,8 +1,7 @@
 <h1>Eren Menteş</h1>
 
 <p>
-  Fullstack Web Developer<br/>
-  Distributed Systems Engineer
+  Fullstack Web Developer | Distributed Systems Engineer
 </p>
 
 <hr/>
