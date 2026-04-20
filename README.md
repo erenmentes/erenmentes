@@ -1,64 +1,38 @@
-<h1 align="center">Hey there 👋, I'm Eren</h1>
+<h1 align="center">Eren Menteş</h1>
 
 <p align="center">
-  <strong>Fullstack Web Developer</strong> • Go & Rust enthusiast • Clean code addict
+  Fullstack Web Developer<br/>
+  Distributed Systems Engineer
 </p>
 
-<p align="center">
-  <a href="mailto:erenmentesdev@gmail.com">
-    <img src="https://img.shields.io/badge/erenmentesdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<hr/>
+
+<h2>About</h2>
+
+<p>
+I design and build scalable, reliable, and maintainable software systems.
+My primary focus is backend architecture, distributed systems, and performance-critical applications.
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<p>
+As a fullstack developer, I work across the entire stack to deliver complete, production-ready products — from user-facing interfaces to backend services and infrastructure.
 </p>
 
-#### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<p>
+I have hands-on experience building web applications with modern JavaScript/TypeScript ecosystems, and I am currently deepening my expertise in system design and backend development with Go.
 </p>
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p>
+My engineering approach prioritizes simplicity, clarity, and long-term maintainability.
+I care about writing clean, well-structured code and designing systems that scale without unnecessary complexity.
 </p>
 
-#### 🧰 Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<p>
+I am continuously learning, building, and exploring better ways to solve complex engineering problems.
 </p>
 
----
+<h2>Contact</h2>
 
-### 👨‍💻 Quick Bio
-
-- 💼 **1+ year** of fullstack experience (mainly React + NestJS / Express)
-- 🐧 Currently diving deep into **Golang**
-- 🧠 Passionate about **clean code**, **scalability**, **automation**, and **OOP**
-- 🔥 Open-source lover — enjoy contributing and learning from the community
-- 🤝 Always open to collaboration and knowledge sharing
-
-<img src="https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/>
+<p>
+Email: <a href="mailto:erenmentesdev@gmail.com">erenmentesdev@gmail.com</a>
+</p>
