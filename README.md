@@ -1,6 +1,6 @@
-<h1 align="center">Eren Menteş</h1>
+<h1>Eren Menteş</h1>
 
-<p align="center">
+<p>
   Fullstack Web Developer<br/>
   Distributed Systems Engineer
 </p>
