@@ -30,6 +30,10 @@ I care about writing clean, well-structured code and designing systems that scal
 I am continuously learning, building, and exploring better ways to solve complex engineering problems.
 </p>
 
+<p>
+  languages i use : go, rust, javascript, typescript
+</p>
+
 <h2>Contact</h2>
 
 <p>
